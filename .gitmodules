@@ -1,0 +1,9 @@
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
+[submodule "src/third_party/spdlog"]
+	path = src/third_party/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "src/third_party/mbedtls"]
+	path = src/third_party/mbedtls
+	url = https://github.com/Mbed-TLS/mbedtls.git

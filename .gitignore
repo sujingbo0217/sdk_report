@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# IDE Settings
+.vscode
+.idea
+
+# Bin
+build
+
+# Third Party
+src/third_party
